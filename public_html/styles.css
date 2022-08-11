@@ -1,3 +1,19 @@
-body{
-    font-family:Cousine, monospace;
+.jumbotron {
+    font-family: Cousine;
+    accent-color: midnightblue;
 }
+
+body{
+    background-color: black;
+    border-color: black;
+    border: thick 5px;
+    padding: 2px;
+    color: ivory;
+}
+
+div{
+    background-color: rosybrown;
+    border-color: midnightblue;
+    border-width: thick 5px;
+}
+
