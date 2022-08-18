@@ -3,7 +3,7 @@
     accent-color: midnightblue;
 }
 
-body{
+body {
     background-color: black;
     border-color: black;
     border: thick 5px;
@@ -11,9 +11,16 @@ body{
     color: ivory;
 }
 
-div{
+div {
     background-color: rosybrown;
     border-color: midnightblue;
     border-width: thick 5px;
 }
 
+.container {
+    padding: 3em;
+}
+
+label {
+    display: block;
+}
